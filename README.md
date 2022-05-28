@@ -1,3 +1,3 @@
 # whatsapp
 
-go to the folder whatsapp-clone and git clone it.
+go to the folder whatsapp-clone and do npm start
